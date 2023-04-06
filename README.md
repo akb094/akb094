@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web and app development**
 
-- 👨‍💻 All of my projects are available at [https://akb094.github.io/](https://akb094.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/akb094](https://github.com/akb094)
 
 - 📫 How to reach me **bijlwanakb@gmail.com**
 
