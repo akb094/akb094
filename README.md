@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar Bijlwan</h1>
 <h3 align="center">An enthusiastic competitive programmer and developer from India</h3>
 
-- 🔭 I’m currently working on learning and implementing new skills
+- 🚩 I’m mostly working on learning and implementing new skills
 
-- 🌱 I’m currently learning **Web and app development**
+- 🎯 I’m currently learning **Web and app development**
+
+- ❤️ I’m passionate about **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akb094](https://github.com/akb094)
 
-- 📫 Write to me at **bijlwanakb@gmail.com**
+- 📧 Write to me at **bijlwanakb@gmail.com**
 
 - ⚡ Fun fact **I am a human**
 
