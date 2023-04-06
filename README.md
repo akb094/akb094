@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/akshat-kumar-bijlwan-3a9652258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar-bijlwan-3a9652258" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bijlwan.akshat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijlwan.akshat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bijlwanakb" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1030588%3Fs%3D200%26v%3D4&tbnid=J6PMbNfzo8ee-M&vet=12ahUKEwjwztqtwJT-AhXz3XMBHck1CmwQMygDegUIARDHAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Finterviewstreet&docid=lDGSyZ5fXQfEoM&w=200&h=200&q=hackerrank%20logo%20for%20github%20readme&ved=2ahUKEwjwztqtwJT-AhXz3XMBHck1CmwQMygDegUIARDHAQ" alt="bijlwanakb" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bijlwanakb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bijlwanakb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
