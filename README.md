@@ -27,8 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akshat-kumar-bijlwan-3a9652258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar-bijlwan-3a9652258" height="30" width="40" />
-  <h4>Linkedin</h4></a>
+<a href="https://www.linkedin.com/in/akshat-kumar-bijlwan-3a9652258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar-bijlwan-3a9652258" height="30" width="40" /><h4>Linkedin</h4></a>
 <a href="https://www.instagram.com/bijlwan.akshat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijlwan.akshat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bijlwanakb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bijlwanakb" height="30" width="40" /></a>
 </p>
