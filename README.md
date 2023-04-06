@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Kumar Bijlwan</h1>
+<h1 align="center">Hi, I'm Akshat Kumar Bijlwan</h1>
 <h3 align="center">An enthusiastic competitive programmer and developer from India</h3>
 
 - 🚩 I’m mostly working on learning and implementing new skills
