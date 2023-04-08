@@ -7,7 +7,7 @@
 
 - ❤️ I’m passionate about **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akb094](https://github.com/akb094)
+- 👨‍💻 All of my projects are available at **[https://github.com/akb094]**(https://github.com/akb094)
 
 - 📧 Write to me at **bijlwanakb@gmail.com**
 
